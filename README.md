@@ -27,7 +27,7 @@
   
 <div align="center"> 
  
-  <a href="https://www.linkedin.com/in/daniel-silva-4a8910215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/daniel-silva-borges-4a8910215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  
  
 </div>
